@@ -1,0 +1,38 @@
+@import "tailwindcss";
+.nav-bar{
+    width: 100%;
+}
+.icon-custom{
+    width: 100px;
+    height: 100px;
+}
+.img-custom{
+    width: 100px;
+    height: 100px;
+}
+.img-home-header-custom{
+    width: 70%;
+    height: 60%;
+}
+.img-custom-mid-section{
+    width: 10%;
+    height: 30%;
+}
+.img-card-custom{
+    height: 25%;
+    width: 25%;
+}
+.img-value-about{
+    height: 50%;
+    width: 505;
+}
+/* .career-vid{
+    
+} */
+
+.custom-cut-button {
+  clip-path: polygon(
+    0 0, calc(100% - 10px) 0, 100% 10px, 
+    100% 100%, 10px 100%, 0 calc(100% - 10px)
+  );
+}
