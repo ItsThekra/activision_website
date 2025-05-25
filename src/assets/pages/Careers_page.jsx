@@ -192,13 +192,6 @@ function Careers_page() {
       <p className='pb-2'>Work with design leadership, artists, and other level designers to deliver environments that embody the creative vision of the game. Work alongside other designers, artists, animators and engineers to...</p>
       <button className='text-white bg-black px-4 py-3 cursor-pointer hover:bg-green-600'>Apply Now</button>
     </div>
-    
-    
-
-
-
-
-
 
     </div>
   </div>

@@ -14,7 +14,7 @@ function Footer_components() {
                 <img src="https://www.svgrepo.com/show/452231/instagram.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
                 <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
                 <img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
-                <img src="https://www.svgrepo.com/show/452138/youtube.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/452138/youtube" alt="" className='h-8 border rounded-full cursor-pointer' />
             </ul>
 
              <div>

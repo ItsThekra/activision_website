@@ -7,7 +7,7 @@ function About_page() {
   return (
     <div>
       <div>
-        <img src="/public/images/about-hero.jpg" alt="" />
+        <img src="http://localhost:5174/public/images/about-hero.jpg" alt="" />
       </div>
 
       <div className='text-white flex flex-col mt-20'>
@@ -43,7 +43,7 @@ function About_page() {
     
      <div className='text-white flex flex-col mt-20 w-full  items-center'>
         <h1 className=' flex justify-center mb-5 border-b pb-4 ml-50 mr-50 border-white font-extrabold'>OUR VALUES</h1> 
-        <img src="/public/images/atvi-values.png" alt="" className='sm:h-150 sm:w-190 '/>
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/values/atvi-values.png" alt="" className='sm:h-150 sm:w-190 '/>
         <button className=' bg-blue-800 rounded-full py-1.5 px-20 cursor-pointer border border-white-800  hover:bg-blue-900 text-white m-15'>LEARN MORE</button>
       </div>
 
@@ -54,7 +54,7 @@ function About_page() {
 
       <div className=' flex gap-5 justify-evenly mt-10 h-900 sm:h-320 flex-wrap	'>
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/dave-stohl.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -64,7 +64,7 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/dave-stohl.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -74,18 +74,7 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
-        <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
-        <p>MAY 20, 2025</p>
-        <h2>Stitch Returns in Season 04</h2>
-        <p className='mt-4'>READ MORE</p>
-        </div>
-      </div>
-
-
-
-      <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/dave-stohl.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -96,7 +85,7 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -107,7 +96,7 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/dave-stohl.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -118,7 +107,18 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/dave-stohl.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
+        <p>MAY 20, 2025</p>
+        <h2>Stitch Returns in Season 04</h2>
+        <p className='mt-4'>READ MORE</p>
+        </div>
+      </div>
+
+
+
+      <div className='flex flex-col items-center text-white h-100  w-100'>
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -128,7 +128,7 @@ function About_page() {
 
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
@@ -265,7 +265,7 @@ function About_page() {
       <h3>LEARN MORE ABOUT JOB OPPORTUNITIES</h3>
       <button className=' rounded-full py-1.5 px-20 cursor-pointer border border-white-800  hover:bg-blue-800 text-white m-15'>JOIN US</button>
     </div>
-    <img src="/public/images/support-banner-v3.jpg" alt="" className='sm:w-2/3 w-full'/>
+    <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/home/assets/support-banner-v3.jpg" alt="" className='sm:w-2/3 w-full'/>
   </div>
     
 </div>    
