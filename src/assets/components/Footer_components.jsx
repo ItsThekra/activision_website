@@ -10,11 +10,11 @@ function Footer_components() {
         <div className =' text-white flex flex-col items-center gap-5'>
             <p>FOLLOW US</p>
             <ul className='gap-5 flex flex-row'>
-                <img src="/public/icons/facebook.png" alt="" className='h-8 border rounded-full cursor-pointer' />
-                <img src="/public/icons/instagram.png" alt="" className='h-8 border rounded-full cursor-pointer' />
-                <img src="/public/icons/linkedin.png" alt="" className='h-8 border rounded-full cursor-pointer' />
-                <img src="/public/icons/twitter.png" alt="" className='h-8 border rounded-full cursor-pointer' />
-                <img src="/public/icons/youtube.png" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/448224/facebook.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/452231/instagram.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
+                <img src="https://www.svgrepo.com/show/452138/youtube.svg" alt="" className='h-8 border rounded-full cursor-pointer' />
             </ul>
 
              <div>
@@ -64,7 +64,7 @@ function Footer_components() {
 
     <div className='md:max-h-100 py-15 flex-col sm:flex-row items-center sm:items-start text-center sm:text-left'>
         <ul className=' text-white flex flex-col items-center'>
-            <li><img src="/public/images/activision_logo_white-text.png" alt="" /></li>
+            <li><img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/home/assets/activision-logo.svg" alt="" /></li>
             <li><p>Copyright 2025 Activision Publishing, Inc.</p></li>
         </ul>
     </div>
