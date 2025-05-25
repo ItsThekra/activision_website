@@ -137,7 +137,7 @@ function About_page() {
       </div>
 
       <div className='flex flex-col items-center text-white h-100  w-100'>
-        <img src="/public/images/terri-durham.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
+        <img src="https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/company/about/leadership/josh-taub.jpg" alt="" className='h-100 W-100 rounded-b-full ' />
         <div className='pt-8 pb-5 justify-center w-100 p-5 text-center'>
         <p>MAY 20, 2025</p>
         <h2>Stitch Returns in Season 04</h2>
